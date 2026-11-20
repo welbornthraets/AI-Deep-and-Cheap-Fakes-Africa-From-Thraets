@@ -1,1 +1,51 @@
-# AI-Deep-and-Cheap-Fakes-Africa-From-Thraets
+# AI Deep and Cheap Fakes Africa – from Thraets
+
+A collection of AI-generated and manipulated media (deepfakes and cheapfakes) found on social media across Africa, with the original post link, an archived copy, the country, and the type of fake for each item. The layout follows the *AI media in the wild* section of the [MNW benchmark](https://github.com/microsoft/MNW/tree/main/AI_media_in_the_wild).
+
+## Contents
+
+| Folder | Items | Files |
+| :---- | :---- | :---- |
+| [Images](Images/) | 74 | 74 images |
+| [Video](Video/) | 24 | 18 videos + 6 removed (archive link only) |
+| **Total** | **98** | **92 files** |
+
+Each folder has a `readme.md` listing every item with its live link, archive link, country, fake type, platform, Report ID, original text and translation. The same data is in [`metadata/shortlist.csv`](metadata/shortlist.csv) and [`metadata/shortlist.xlsx`](metadata/shortlist.xlsx).
+
+## Labels
+
+- **Deepfake**: media generated or altered with AI.
+- **Cheapfake**: media manipulated without AI (edited, cropped, mislabelled or shared out of context).
+- **Video removed – archived link available**: the original post is gone; the archive link is the only remaining copy.
+
+Deepfakes: 77 · Cheapfakes: 21
+
+## Countries
+
+| Country | Items |
+| :---- | :---- |
+| Uganda | 29 |
+| Nigeria | 16 |
+| Kenya | 11 |
+| Rwanda | 7 |
+| South Africa | 7 |
+| Tanzania | 6 |
+| DR Congo | 4 |
+| Sudan | 4 |
+| Ghana | 3 |
+| Algeria | 2 |
+| Ethiopia | 2 |
+| South Sudan | 2 |
+| Zimbabwe | 2 |
+| Burundi | 1 |
+| Cameroon | 1 |
+| Morocco | 1 |
+
+## File names
+
+Files are named `M001`, `M002` … within each folder (M = likely manipulated, as in MNW). The original Report ID for each file is in the folder's `readme.md` and in the metadata files.
+
+## Known gaps
+
+- Some archive links contain `/wip/`, meaning the archive.is capture may not have finished; these are flagged in the Notes column.
+- Images are kept in their original format (JPEG, PNG or AVIF) without recompression.
