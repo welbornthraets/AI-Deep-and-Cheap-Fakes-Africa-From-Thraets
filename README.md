@@ -14,11 +14,8 @@ Each folder has a `likely_manipulated/` subfolder with the files and a `readme.m
 
 ## Labels
 
-- **Deepfake**: media generated or altered with AI.
-- **Cheapfake**: media manipulated without AI (edited, cropped, mislabelled or shared out of context).
-- **Video removed – archived link available**: the original post is gone; the archive link is the only remaining copy.
-
-Deepfakes: 77 · Cheapfakes: 21
+- Deepfakes
+- Cheapfakes
 
 ## Countries
 
