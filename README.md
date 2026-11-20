@@ -10,7 +10,7 @@ A collection of AI-generated and manipulated media (deepfakes and cheapfakes) fo
 | [Video](Video/) | 24 | 18 videos + 6 removed (archive link only) |
 | **Total** | **98** | **92 files** |
 
-Each folder has a `readme.md` listing every item with its live link, archive link, country, fake type, platform, Report ID, original text and translation. The same data is in [`metadata/shortlist.csv`](metadata/shortlist.csv) and [`metadata/shortlist.xlsx`](metadata/shortlist.xlsx).
+Each folder has a `likely_manipulated/` subfolder with the files and a `readme.md` listing every item's live link and archive link, in the same format as MNW. Country, fake type, platform, Report ID, original text and translation for every item are in [`metadata/shortlist.csv`](metadata/shortlist.csv) and [`metadata/shortlist.xlsx`](metadata/shortlist.xlsx).
 
 ## Labels
 
@@ -43,9 +43,9 @@ Deepfakes: 77 · Cheapfakes: 21
 
 ## File names
 
-Files are named `M001`, `M002` … within each folder (M = likely manipulated, as in MNW). The original Report ID for each file is in the folder's `readme.md` and in the metadata files.
+Files are named `M001`, `M002` … within each folder (M = likely manipulated, as in MNW). The original Report ID for each file is in the metadata files.
 
 ## Known gaps
 
-- Some archive links contain `/wip/`, meaning the archive.is capture may not have finished; these are flagged in the Notes column.
+- Some archive links contain `/wip/`, meaning the archive.is capture may not have finished; these are flagged in the Notes column of the metadata files.
 - Images are kept in their original format (JPEG, PNG or AVIF) without recompression.
