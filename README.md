@@ -6,9 +6,9 @@ A collection of AI-generated and manipulated media (deepfakes and cheapfakes) fo
 
 | Folder | Items | Files |
 | :---- | :---- | :---- |
-| [Images](Images/) | 74 | 74 images |
+| [Images](Images/) | 73 | 73 images |
 | [Video](Video/) | 24 | 18 videos + 6 removed (archive link only) |
-| **Total** | **98** | **92 files** |
+| **Total** | **97** | **91 files** |
 
 Each folder has a `likely_manipulated/` subfolder with the files and a `readme.md` listing every item's live link and archive link, in the same format as MNW. Country, fake type, platform, Report ID, original text and translation for every item are in [`metadata/shortlist.csv`](metadata/shortlist.csv) and [`metadata/shortlist.xlsx`](metadata/shortlist.xlsx).
 
@@ -22,7 +22,7 @@ Each folder has a `likely_manipulated/` subfolder with the files and a `readme.m
 | Country | Items |
 | :---- | :---- |
 | Uganda | 29 |
-| Nigeria | 16 |
+| Nigeria | 15 |
 | Kenya | 11 |
 | Rwanda | 7 |
 | South Africa | 7 |
