@@ -65,7 +65,6 @@
 | M059  | [https://x.com/EGerasouli35992/status/2011222029089788301?s=20](https://x.com/EGerasouli35992/status/2011222029089788301?s=20)  | [https://archive.is/ZDuCr](https://archive.is/ZDuCr)  |
 | M060  | [https://x.com/beaswears/status/2056069994312593583?s=20](https://x.com/beaswears/status/2056069994312593583?s=20)  | [https://archive.is/vuF40#selection-547.0-554.0](https://archive.is/vuF40#selection-547.0-554.0)  |
 | M061  | [https://x.com/vpsouthsudan/status/1980322126428049596?s=20](https://x.com/vpsouthsudan/status/1980322126428049596?s=20)  | [https://archive.is/2JmDz](https://archive.is/2JmDz)  |
-| M062  | [https://x.com/Abdul_A_Bello/status/2063168905435029773?s=20](https://x.com/Abdul_A_Bello/status/2063168905435029773?s=20)  | [https://archive.is/LiQv8#selection-599.0-613.1](https://archive.is/LiQv8#selection-599.0-613.1)  |
 | M063  | [https://x.com/BabeOmalicha/status/1532388864823726080?s=20](https://x.com/BabeOmalicha/status/1532388864823726080?s=20)  | [https://archive.is/89zYs](https://archive.is/89zYs)  |
 | M064  | [https://x.com/I_Am_Son_Of_Man/status/1959446276225007930?s=20](https://x.com/I_Am_Son_Of_Man/status/1959446276225007930?s=20)  | [https://archive.is/lejeN](https://archive.is/lejeN)  |
 | M065  | [https://x.com/FabriceLuboya/status/1898401380861170169?s=20](https://x.com/FabriceLuboya/status/1898401380861170169?s=20)  | [https://archive.ph/6AEqF](https://archive.ph/6AEqF)  |
