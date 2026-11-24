@@ -62,7 +62,6 @@
 | M056  | [https://x.com/johnga955/status/2007981460930937331?s=20](https://x.com/johnga955/status/2007981460930937331?s=20)  | [https://archive.is/QkunD#selection-551.0-587.9](https://archive.is/QkunD#selection-551.0-587.9)  |
 | M057  | [https://x.com/kish_kizzy/status/2008296644442239171?s=20](https://x.com/kish_kizzy/status/2008296644442239171?s=20)  | [https://archive.is/WrYEa#selection-603.0-603.63](https://archive.is/WrYEa#selection-603.0-603.63)  |
 | M058  | [https://x.com/SeniorMan_xx/status/2007931180113445180?s=20](https://x.com/SeniorMan_xx/status/2007931180113445180?s=20)  | [https://archive.is/WjuQx](https://archive.is/WjuQx)  |
-| M059  | [https://x.com/EGerasouli35992/status/2011222029089788301?s=20](https://x.com/EGerasouli35992/status/2011222029089788301?s=20)  | [https://archive.is/ZDuCr](https://archive.is/ZDuCr)  |
 | M060  | [https://x.com/beaswears/status/2056069994312593583?s=20](https://x.com/beaswears/status/2056069994312593583?s=20)  | [https://archive.is/vuF40#selection-547.0-554.0](https://archive.is/vuF40#selection-547.0-554.0)  |
 | M061  | [https://x.com/vpsouthsudan/status/1980322126428049596?s=20](https://x.com/vpsouthsudan/status/1980322126428049596?s=20)  | [https://archive.is/2JmDz](https://archive.is/2JmDz)  |
 | M063  | [https://x.com/BabeOmalicha/status/1532388864823726080?s=20](https://x.com/BabeOmalicha/status/1532388864823726080?s=20)  | [https://archive.is/89zYs](https://archive.is/89zYs)  |
